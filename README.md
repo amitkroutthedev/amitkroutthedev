@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/amitkroutthedev/amitkroutthedev/main/20240112_153538_0000.png" align="left" style="width: 100%" />  
 <h2>Glad to see you here</h2>  
+<p>I am a passionate and skilled developer with over a year of experience in building and deploying web applications. My expertise lies in frontend technologies, and I have a strong understanding of how to create user-friendly and visually appealing interfaces. I am also proficient in deploying applications using Nginx, ensuring optimal performance and reliability. Currently, I am expanding my knowledge by exploring the Rust programming language, eager to apply its unique features to my development projects.</p>
 <br/>
 <br/>
   
@@ -7,7 +8,7 @@
 - 🔭 I’m currently working on [create-reactopack](https://github.com/amitkroutthedev/create-reactopack) and [dropbox-clone](https://github.com/amitkroutthedev/nextjs-dropbox-clone)  
   
 
-- 🌱 I’m currently learning Rust a  
+- 🌱 I’m currently learning Rust
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
@@ -46,17 +47,17 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/amit-kumar-rout-web-dev" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/amitkroutthedev" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/AMITKROUT1" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/bladearya" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
