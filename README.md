@@ -42,6 +42,15 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>  
 
+<br/>
+
+## Blogs
+<ul>
+  <li><a href="https://dev.to/bladearya/how-to-set-up-protected-how-to-protect-routes-for-different-user-roles-with-restricted-access-59j5" target="_blank">How to protect routes for different user roles with restricted access?</a></li>
+  <li><a href="https://dev.to/bladearya/resetting-reducer-state-in-react-and-redux-for-better-state-management-2aik" target="_blank">Resetting Reducer State in React and Redux for Better State Management</a></li>
+   <li><a href="https://dev.to/bladearya/building-my-first-vs-code-extension-1h7d" target="_blank">Building my first VS Code Extension</a></li>
+</ul>
+
 <br/>  
 
 
