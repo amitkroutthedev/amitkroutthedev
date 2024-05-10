@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [create-reactopack](https://github.com/amitkroutthedev/create-reactopack) and [dropbox-clone](https://github.com/amitkroutthedev/nextjs-dropbox-clone)  
   
 
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning GO
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
