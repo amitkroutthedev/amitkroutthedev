@@ -1,11 +1,12 @@
 <img src="https://raw.githubusercontent.com/amitkroutthedev/amitkroutthedev/main/20240112_153538_0000.png" align="left" style="width: 100%" />  
+<br/>
 <h2>Glad to see you here</h2>  
 <p>I am a passionate and skilled developer with over a year of experience in building and deploying web applications. My expertise lies in frontend technologies, and I have a strong understanding of how to create user-friendly and visually appealing interfaces. I am also proficient in deploying applications using Nginx, ensuring optimal performance and reliability. Currently, I am expanding my knowledge by exploring the Rust programming language, eager to apply its unique features to my development projects.</p>
 <br/>
 <br/>
-  
 
-- 🔭 I’m currently working on [create-reactopack](https://github.com/amitkroutthedev/create-reactopack) and [dropbox-clone](https://github.com/amitkroutthedev/nextjs-dropbox-clone)  
+  
+- 🔭 I’m currently working on [hiretopia](https://github.com/amitkroutthedev/hiretopia)
   
 
 - 🌱 I’m currently learning GO
