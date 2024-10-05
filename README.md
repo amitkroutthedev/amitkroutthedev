@@ -6,7 +6,7 @@
 <br/>
 
   
-- 🔭 I’m currently working on [hiretopia](https://github.com/amitkroutthedev/hiretopia)
+- 🔭 I’m currently working on [url-shortner](https://github.com/amitkroutthedev/url-short-backend)
   
 
 - 🌱 I’m currently learning GO
