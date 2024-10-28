@@ -6,7 +6,7 @@
 <br/>
 
   
-- 🔭 I’m currently working on [url-shortner](https://github.com/amitkroutthedev/url-short-backend)
+- 🔭 I’m currently working on [go-url-shortner](https://github.com/amitkroutthedev/url-short-backend) and [markdown-editor](https://github.com/amitkroutthedev/markdown-editor).
   
 
 - 🌱 I’m currently learning GO
