@@ -78,7 +78,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=AMITKROUTTHEDEV&&style=flat-square" align="center" />
+<a href="https://u8views.com/github/amitkroutthedev"><img src="https://u8views.com/api/v1/github/profiles/48612930/views/day-week-month-total-count.svg"></a>
 </div>  
 
 <br />
